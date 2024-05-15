@@ -22,6 +22,11 @@ body {
     text-decoration: none;
 }
 
+.link1:hover, .link1:focus, .link2:hover, .link2:focus, .link3:hover, .link3:focus {
+    text-decoration:line-through;
+    color: greenyellow;
+}
+
 ul {
     list-style-type: none;
 }

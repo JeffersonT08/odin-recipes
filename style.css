@@ -38,22 +38,22 @@ body {
 
 .footnote1 {
     position: fixed;
-    bottom: 0px;
-    width: 100%;
+    bottom: 10px;
+    width: 90%;
     text-align: left;
 }
 
 .footnote2 {
     position: fixed;
-    bottom: 0px;
+    bottom: 10px;
     width: 100%;
     text-align: center;
 }
 
 .footnote3 {
     position: fixed;
-    bottom: 0px;
-    width: 100%;
+    bottom: 10px;
+    width: 99%;
     text-align: right;
 }
 
